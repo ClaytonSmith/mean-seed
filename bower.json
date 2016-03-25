@@ -1,0 +1,33 @@
+{
+  "name": "practissimo",
+  "description": "a cool app",
+  "main": "server.js",
+  "authors": [
+    "ClaytonSmith <cks_jr@yahoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cool"
+  ],
+  "homepage": "https://github.com/scotch-io/easy-node-authentication",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.5.2",
+    "angular-resource": "^1.5.2",
+    "angular-route": "^1.5.2",
+    "angular-sanitize": "^1.5.2",
+    "angular": "^1.5.2",
+    "async": "^1.5.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "font-awsome#^4.5.0",
+    "jquery": "^2.2.2"
+  }
+}
