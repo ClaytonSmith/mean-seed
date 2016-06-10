@@ -10,6 +10,7 @@
   "dependencies": {
     "bcrypt-nodejs": "latest",
     "body-parser": "~1.15.0",
+    "bower": "^1.7.9",
     "connect-flash": "~0.1.1",
     "connect-mongo": "^1.1.0",
     "cookie-parser": "~1.4.1",
