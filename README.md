@@ -11,6 +11,8 @@ We will be using Passport to authenticate users locally
 If you would like to download the code and try it for yourself:
 
 1. Clone the repo: `git clone git@github.com:ClaytonSmith/mean-seed`
-2. Install packages: `npm install`
-5. Launch: `node --harmony_proxies server.js`
-6. Visit in your browser at: `http://localhost:8080`
+2. [Install Mongodb](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+3. [Install Nodejs](https://nodejs.org/en/)
+3. Install packages: `npm install`
+4. Launch: `node --harmony_proxies server.js`
+5. Visit in your browser at: `http://localhost:8080`
